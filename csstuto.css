@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana, Geneva, arial, arial black;
+    font-weight: bold;
+}
+h1, h2 {
+    background-color: blue;
+}
+
+h1{
+    color:pink;
+}
+.blue {
+    background-color: blue;
+    font-size: 20px;
+}
+
+.green {
+    background-color: green;
+    font-size: 20px;
+}
+
+h3, h4 {
+    border-bottom: 1px solid black;
+}
+h3 {
+    border: 1px solid black;
+}
+.underline {
+    text-decoration: underline brown ;
+}

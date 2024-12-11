@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tittle{
+    color: red;
+    font-size: 50px;
+}
